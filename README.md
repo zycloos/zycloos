@@ -7,16 +7,16 @@ zycloos/zycloos is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-├─ CSharp/
-│  ├─ .NET
-│  ├─ Windows Presentation Foundation
-│  ├─ Winforms
-├─ HTML
-│  ├─ Basics
-├─ CSS
-│  ├─ Basics
-│  ├─ Animations
-├─ JavaScript
-│  ├─ In progress...
+- ├─ CSharp/
+- │  ├─ .NET
+- │  ├─ Windows Presentation Foundation
+- │  ├─ Winforms
+- ├─ HTML
+- │  ├─ Basics
+- ├─ CSS
+- │  ├─ Basics
+- │  ├─ Animations
+- ├─ JavaScript
+- │  ├─ In progress...
 
 
