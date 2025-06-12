@@ -1,16 +1,17 @@
-- 👋 Hi, I’m @zycloos
+👋 Hi, I’m Jonas :)
 
 <!---
 zycloos/zycloos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+```
 ├─ CSharp
 │  ├─ .NET
 │  ├─ Windows Presentation Foundation
-│  ├─ Winforms
+│  ├─ WinForms
 │  ├─ Blazor
-|  ├─ gRPC
+│  ├─ gRPC
 ├─ Web
 │  ├─ HTML
 │  ├─ CSS
@@ -19,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 │  ├─ In progress...
 ├─ SQL
 │  ├─ Basics
+```
